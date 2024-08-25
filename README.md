@@ -10,7 +10,6 @@ How to run this in your local server?
    Key Content-Type
     and Value application/json.
 8) In Body change to Raw and make sure it's in JSON.
-   Give the value for Location,Nature_of_business,Manufactruing_processes.
    Example: 
    {
      "user_id" : "123"
